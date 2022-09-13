@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "react-bootstrap": "^2.5.0"
+  },
+  "devDependencies": {
+    "react-router-dom": "^6.3.0"
+  }
+}
